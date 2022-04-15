@@ -24,6 +24,8 @@ public class Test_Java {
 		int num = 10;
 		result = ~num;
 		System.out.println(result);
+		
+		System.out.println("fucking github");
 	}
 
 }
